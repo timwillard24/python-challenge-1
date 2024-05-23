@@ -1,9 +1,7 @@
 # Variety Food Truck Ordering System
-
 Welcome to the Variety Food Truck Ordering System! This Python script allows users to place orders from a variety of menu categories, including Snacks, Meals, Drinks, and Dessert. Users can select items, specify quantities, and receive a final order receipt with the total cost.
 
 ## Features
-
 - **Menu Categories**: Choose from Snacks, Meals, Drinks, and Dessert.
 - **Subcategories**: Some categories have subcategories (e.g., different types of Pizza or Burger).
 - **Order Multiple Items**: Users can order multiple items from different categories.
@@ -20,7 +18,6 @@ Welcome to the Variety Food Truck Ordering System! This Python script allows use
 6. **View Order Receipt**: After finishing the order, the script will display the order receipt with the total cost.
 
 ## Sample Output
-
 Welcome to the variety food truck.
 From which menu would you like to order?
 1: Snacks
@@ -61,7 +58,6 @@ Burrito                   | $4.49  | 1
 Total Cost: $4.49
 
 ## Code Overview
-
 The script follows these main steps:
 
 1. **Setup Menu and Order List**: Defines the menu dictionary and initializes an empty order list.
@@ -72,7 +68,6 @@ The script follows these main steps:
 6. **Print Receipt**: Displays the final order receipt with item details and the total cost.
 
 ## Requirements
-
 - Python 3.x
 
 ## How to Run
