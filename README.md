@@ -77,3 +77,7 @@ The script follows these main steps:
 3. Navigate to the directory where the script is saved.
 4. Run the script using the command: `python food_truck.py`.
 
+## Sources
+Utilized ChatGPT to diagnose misunderstood terminal error messaging
+Utilized ChatGPT for assistance on receipt handling/printing
+Utilized ChatGPT to review code for consistency and formatting errors
