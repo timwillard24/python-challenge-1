@@ -78,6 +78,6 @@ The script follows these main steps:
 4. Run the script using the command: `python food_truck.py`.
 
 ## Sources
-Utilized ChatGPT to diagnose misunderstood terminal error messaging
-Utilized ChatGPT for assistance on receipt handling/printing
-Utilized ChatGPT to review code for consistency and formatting errors
+1. Utilized ChatGPT to diagnose misunderstood terminal error messaging
+2. Utilized ChatGPT for assistance on receipt handling/printing
+3. Utilized ChatGPT to review code for consistency and formatting errors
